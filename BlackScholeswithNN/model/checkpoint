@@ -1,0 +1,2 @@
+model_checkpoint_path: "BS_saved_model_weights"
+all_model_checkpoint_paths: "BS_saved_model_weights"
